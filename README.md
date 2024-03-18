@@ -1,4 +1,4 @@
-  #Bubble Sort Algorithm
+  # Bubble Sort Algorithm
 <br>
 A generic bubble sort algorithm writen in generic class.
 <br>
